@@ -1,9 +1,6 @@
-/* шрифт создан с помощью сервиса ...
+/* шрифт создан с помощью сервиса https://oleddisplay.squix.ch/
 *  файл шрифта необходимо полдожить в папку C:\Users\Gamer\Documents\Arduino\libraries\TTGO_TWatch_Library-master\src\TFT_eSPI\Fonts\Custom
 *  и прописать в файле "C:\Users\Gamer\Documents\Arduino\libraries\TTGO_TWatch_Library-master\src\TFT_eSPI\User_Setups\User_Custom_Fonts.h"
-*  подобрать положение текста и единиц измерения
-* 
-* 
 */
 
 #include <Wire.h>
