@@ -1,0 +1,4 @@
+Файлы шрифтов нужно положить в папку \Arduino\libraries\TTGO_TWatch_Library-master\src\TFT_eSPI\Fonts\Custom или \Arduino\libraries\TFT_eSPI\Fonts\Custom
+Шрифты необходимо прописать в файле \Arduino\libraries\TTGO_TWatch_Library-master\src\TFT_eSPI\User_Setups\User_Custom_Fonts.h или \Arduino\libraries\TFT_eSPI\User_Setups\User_Custom_Fonts.h
+#include "../Fonts/Custom/Orbitron_Medium_72.h"     // CF_OM72
+#include "../Fonts/Custom/Orbitron_Light_32.h" // CF_OL32
